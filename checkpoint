@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Dylan\\Desktop\\build\\python_projects\\gta_self_driving_car\\pygta5-car-0.001-alexnetmodnew-10-epochs.model"
+all_model_checkpoint_paths: "C:\\Users\\Dylan\\Desktop\\build\\python_projects\\gta_self_driving_car\\pygta5-car-0.001-alexnetmodnew-10-epochs.model"
